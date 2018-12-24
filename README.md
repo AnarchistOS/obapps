@@ -1,0 +1,2 @@
+# obapps
+Openbox Apps Preferences
