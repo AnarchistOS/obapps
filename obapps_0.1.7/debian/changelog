@@ -1,3 +1,11 @@
+obapps (0.1.7-1) crowbar; urgency=low
+
+  * Repacked for AnarchistOS.
+  * Initial release.
+
+ -- AreYouLoco? <areyouloco@paranoici.org>  Mon, 24 Dec 2018 20:32:26 +0100
+
+
 obapps (0.1.7) unstable; urgency=low
 
   * Initial release.
