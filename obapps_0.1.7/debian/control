@@ -1,0 +1,15 @@
+Source: obapps
+Section: x11
+Priority: extra
+Maintainer: Philip Newborough <corenominal@corenominal.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+Homepage: http://sourceforge.net/projects/obapps/
+
+Package: obapps
+Architecture: all
+Depends: python, python-xlib, python-wxtools
+Description: GUI tool for configuring application settings in Openbox
+ A graphical tool for configuring the per-application settings
+ (window matching) in the Openbox window manager.
+ 
